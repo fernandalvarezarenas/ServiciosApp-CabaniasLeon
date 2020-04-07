@@ -12,3 +12,4 @@ esteban0.8@hotmail.com
 
 María Fernanda 
 fernanda.alvarez.arenas@gmail.com
+maria.alvareza@alumno.buap.mx
