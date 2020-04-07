@@ -1,9 +1,11 @@
-# ServiciosApp-CabaniasLeon
- Repositorio de la aplicacion de servicios
+# AppServicios-CabaniasLeon
+ Repositorio para la creación de la App que albergara los servicios que ofrecen las "Cabañas el Leon"
 
-Lo mismo que en el otro:
+#----------------------------------------------------------------------------------------------------#
 
-Cesar Esteban 
-esteban0.8@gmail.com
+Buenas compañeros.
+Esta va a ser el area de trabajo, antes de todo vamos a hacer unas pruebas con un proyecto prueba, tambien necesito saber que todos pueden acceder al repositorio y hacer cambios. 
+Por ello vamos a hacer un pase de lista en este documento. Todos los que participen en este repositorio favor de poner, nombre y correo.
 
-Prueba número 1 
+Cesar Esteban
+esteban0.8@hotmail.com
